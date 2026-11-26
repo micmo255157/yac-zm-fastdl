@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "server": "shelter",
+  "asset_revision": "original-r001-r050",
+  "map": "de_dust2 (stock game; not redistributed)",
+  "base_url": "https://micmo255157.github.io/yac-zm-fastdl/shelter/cstrike/",
+  "files": [
+    {
+      "path": "models/yac_freecamp/r001/iron_pile.mdl",
+      "bytes": 14024,
+      "sha256": "637d2334db462946f6a8bea8e42144a4d60c140fd979d136cedd9fb00953fa76",
+      "license": "CC0-1.0",
+      "self_contained_model": true
+    },
+    {
+      "path": "models/yac_freecamp/r001/wood_pile.mdl",
+      "bytes": 24632,
+      "sha256": "8eb34474be8544e44ccbcb61d72ec16ec626019aab60cab7ba7a09dec5fac8a7",
+      "license": "CC0-1.0",
+      "self_contained_model": true
+    },
+    {
+      "path": "models/yac_freecamp/r050/workbench.mdl",
+      "bytes": 17936,
+      "sha256": "4bebf3305934375b3a93dd5e12f0933502a26b8f0a84a5b970549823bedac148",
+      "license": "CC0-1.0",
+      "self_contained_model": true
+    },
+    {
+      "path": "models/yac_shelter/barrier.mdl",
+      "bytes": 9872,
+      "sha256": "c518e89b4800c5734e5d047516249f1db75d3ad068e0900473980f5f57cd3f3b",
+      "license": "CC0-1.0",
+      "self_contained_model": true
+    },
+    {
+      "path": "models/yac_shelter/core.mdl",
+      "bytes": 15228,
+      "sha256": "0ee5659bec207ce4e9a718bf1aa623a53a75eff5d99e8225dff3d6adb92c22ab",
+      "license": "CC0-1.0",
+      "self_contained_model": true
+    },
+    {
+      "path": "models/yac_shelter/generator.mdl",
+      "bytes": 10808,
+      "sha256": "413ca297d74bb47d29c8705c4308eda6c23db4dfbb6394c59652acf994a2effb",
+      "license": "CC0-1.0",
+      "self_contained_model": true
+    },
+    {
+      "path": "models/yac_shelter/resource.mdl",
+      "bytes": 8988,
+      "sha256": "faa010a38815bdd09d3ddf525454c0cf8a41efb22fa2e8e94c606e4a467599e1",
+      "license": "CC0-1.0",
+      "self_contained_model": true
+    },
+    {
+      "path": "models/yac_shelter/turret.mdl",
+      "bytes": 10808,
+      "sha256": "65e5dfeb8597a38f698b427cf4dac71c8d0fb1b03af23570e630676a1204acbe",
+      "license": "CC0-1.0",
+      "self_contained_model": true
+    }
+  ],
+  "client_bytes": 112296,
+  "stock_game_files_included": false,
+  "server_or_member_files_included": false,
+  "actual_first_join_timing": "not yet measured; size is not a speed guarantee"
+}
